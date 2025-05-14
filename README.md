@@ -1,5 +1,5 @@
 # NLP_Projects
-# 🇬🇧→🇪🇸 Transformer-Based English to Spanish Translator
+# EN → ES Transformer-Based English to Spanish Translator
 
 This project implements a custom **Transformer-based Neural Machine Translation (NMT)** system to translate English sentences into Spanish.
 
